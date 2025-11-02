@@ -3,10 +3,10 @@
 Este projeto permite buscar informações de qualquer usuário do GitHub através da API pública do GitHub.
 Basta digitar o nome de usuário e o sistema exibe:
 
-✅ Avatar
-✅ Nome e bio
-✅ Seguidores e seguindo
-✅ Repositórios mais recentes com estatísticas (stars, forks, watchers, linguagem)
+✅ Avatar  
+✅ Nome e bio  
+✅ Seguidores e seguindo  
+✅ Repositórios mais recentes com estatísticas (stars, forks, watchers, linguagem)  
 
 ## Tecnologias Utilizadas
 
